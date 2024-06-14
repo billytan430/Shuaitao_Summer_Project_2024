@@ -1,4 +1,7 @@
-Project
+## Project
+
+
+
 Welcome to my project repository for the comprehensive algorithmic trading course I'm following on YouTube(https://www.youtube.com/watch?v=9Y3yaoi9rUQ&t=7556s). This course covers three advanced trading strategies.
 I focused on learning the basic intergration of implementing the unsupervised learing strategy for stock in this project! 
 
